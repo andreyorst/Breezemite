@@ -21,11 +21,11 @@ UseTextShadow=true
 BorderBottom=1
 BorderLeft=1
 BorderRight=1
-BorderTop=1
-ButtonHeight=14
-ButtonMarginTop=3
-ButtonSpacing=7
-ButtonWidth=14
+
+ButtonHeight=13
+ButtonMarginTop=2
+ButtonSpacing=8
+ButtonWidth=13
 ExplicitButtonSpacer=0
 PaddingBottom=84
 PaddingLeft=74
