@@ -21,7 +21,6 @@ UseTextShadow=true
 BorderBottom=1
 BorderLeft=1
 BorderRight=1
-
 ButtonHeight=13
 ButtonMarginTop=2
 ButtonSpacing=8
@@ -38,7 +37,7 @@ TitleEdgeBottomMaximized=4
 TitleEdgeLeft=10
 TitleEdgeLeftMaximized=4
 TitleEdgeRight=10
-TitleEdgeRightMaximized=4
+TitleEdgeRightMaximized=10
 TitleEdgeTop=4
-TitleEdgeTopMaximized=2
+TitleEdgeTopMaximized=4
 TitleHeight=15
