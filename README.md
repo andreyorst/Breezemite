@@ -1,5 +1,5 @@
 # Breezemite
-Aurorae theme for KDE 5.8 that mimics Yosemite window decoration, but with Breeze colors to match Breese window theme.
+Aurorae theme for KDE 5.8 that mimics Yosemite window decoration, but with Breeze colors to match Breeze window theme.
 
 Place it in ~/.local/share/aurorae/themes
 
