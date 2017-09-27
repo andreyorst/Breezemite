@@ -1,5 +1,5 @@
 # Breezemite
-Aurorae theme for KDE 5.8 that mimics Yosemite window decoration, but with Breeze colors to match Breeze window theme.
+Aurorae theme for KDE Plasma that mimics Yosemite window decoration, but with Breeze colors to match Breeze window theme.
 
 Place it in ~/.local/share/aurorae/themes
 
@@ -12,9 +12,9 @@ https://store.kde.org/p/1169286/
 **A.** Check if you're using **display scaling**. THis theme is sensitive to it (my fault)
 
 **Q.** Titlebar is transparent!  
-**A.** Youre ysind **HiDPI** dipllay, right? check [this issue](https://github.com/andreyorst/Breezemite/issues/4#issuecomment-295890785) for solution. If not, open new issue and I'll try to help you
+**A.** Youre usind **HiDPI** dipllay, right? check [this issue](https://github.com/andreyorst/Breezemite/issues/4#issuecomment-295890785) for solution. If not, open new issue and I'll try to help you
 
-**Q.** No shade (rollup) button!  
+**Q.** No shade (roll up) button!  
 **A.** Yes. No shade button. It is bugged in aurorae theme engine.
 
 **Q.** Damn, draggable area of borders is 1px!  
