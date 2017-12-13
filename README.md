@@ -26,4 +26,6 @@ https://store.kde.org/p/1169286/
 **Q.** Incorrect Application Menu position!  
 **A.** I personally recommend you to use this theme with application menu widget, since it is a mac style theme. But check this issue for explanations [#6](https://github.com/andreyorst/Breezemite/issues/6)
 
+---
+
 There is great new theme from [Igor Shovkun](https://github.com/ishovkun), which is based om breeze engine which is default in KDE5. It has all features which are missing in breezemite. Check it out: [SierraBreeze](https://github.com/ishovkun/SierraBreeze).
