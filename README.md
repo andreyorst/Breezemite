@@ -21,7 +21,9 @@ https://store.kde.org/p/1169286/
 **A.** Yes, i know, [this it what matters](https://www.youtube.com/watch?v=4MycEcQOSzc). [Check this issue](https://github.com/andreyorst/Breezemite/issues/2)
 
 **Q.** Icon for title bar Application Menu button is missing!  
-**A.** [#5](https://github.com/andreyorst/Breezemite/issues/5)
+**A.** Check this issue for explanations [#5](https://github.com/andreyorst/Breezemite/issues/5)
 
 **Q.** Incorrect Application Menu position!  
-**A.** [#6](https://github.com/andreyorst/Breezemite/issues/6)
+**A.** I personally recommend you to use this theme with application menu widget, since it is a mac style theme. But check this issue for explanations [#6](https://github.com/andreyorst/Breezemite/issues/6)
+
+There is great new theme from [Igor Shovkun](https://github.com/ishovkun), which is based om breeze engine which is default in KDE5. It has all features which are missing in breezemite. Check it out: [SierraBreeze](https://github.com/ishovkun/SierraBreeze).
