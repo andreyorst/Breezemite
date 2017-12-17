@@ -3,13 +3,13 @@ Aurorae theme for KDE Plasma that mimics Yosemite window decoration, but with Br
 
 Place it in ~/.local/share/aurorae/themes
 
-![alt tag](https://cn.pling.com/img/6/6/d/d/5ee0d8f29801ecd2f6c418d05b4c77d6173a.png)
+![Breezemite](https://cn.pling.com/img/6/6/d/d/5ee0d8f29801ecd2f6c418d05b4c77d6173a.png)
 https://store.kde.org/p/1169286/
 
 ## F.A.Q.
 
 **Q.** My borders are oversised!  
-**A.** Check if you're using **display scaling**. THis theme is sensitive to it (my fault)
+**A.** Check if you're using **display scaling**. This theme is sensitive to it (my fault)
 
 **Q.** Titlebar is transparent!  
 **A.** Youre usind **HiDPI** dipllay, right? check [this issue](https://github.com/andreyorst/Breezemite/issues/4#issuecomment-295890785) for solution. If not, open new issue and I'll try to help you
@@ -21,10 +21,10 @@ https://store.kde.org/p/1169286/
 **A.** Yes, i know, [this it what matters](https://www.youtube.com/watch?v=4MycEcQOSzc). [Check this issue](https://github.com/andreyorst/Breezemite/issues/2)
 
 **Q.** Icon for title bar Application Menu button is missing!  
-**A.** Check this issue for explanations [#5](https://github.com/andreyorst/Breezemite/issues/5)
+**A.** Check [this](https://github.com/andreyorst/Breezemite/issues/5) issue for explanations.
 
 **Q.** Incorrect Application Menu position!  
-**A.** I personally recommend you to use this theme with application menu widget, since it is a mac style theme. But check this issue for explanations [#6](https://github.com/andreyorst/Breezemite/issues/6)
+**A.** I personally recommend you to use this theme with application menu widget, since it is a mac style theme. But check [this](https://github.com/andreyorst/Breezemite/issues/6) issue for explanations.
 
 ---
 
