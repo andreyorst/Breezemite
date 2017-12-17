@@ -4,7 +4,7 @@ Aurorae theme for KDE Plasma that mimics Yosemite window decoration, but with Br
 Place it in ~/.local/share/aurorae/themes
 
 ![Breezemite](https://cn.pling.com/img/6/6/d/d/5ee0d8f29801ecd2f6c418d05b4c77d6173a.png)
-https://store.kde.org/p/1169286/
+[KDE Store](https://store.kde.org/p/1169286/)
 
 ## F.A.Q.
 
