@@ -8,7 +8,7 @@ Place it in ~/.local/share/aurorae/themes
 
 ## F.A.Q.
 
-**Q.** My borders are oversised!  
+**Q.** My borders are oversized!  
 **A.** Check if you're using **display scaling**. This theme is sensitive to it (my fault)
 
 **Q.** Titlebar is transparent!  
@@ -28,4 +28,4 @@ Place it in ~/.local/share/aurorae/themes
 
 ---
 
-There is great new theme from [Igor Shovkun](https://github.com/ishovkun), which is based om breeze engine which is default in KDE5. It has all features which are missing in breezemite. Check it out: [SierraBreeze](https://github.com/ishovkun/SierraBreeze).
+There is great new theme from [Igor Shovkun](https://github.com/ishovkun), which is based on breeze engine which is default in KDE5. It has all features which are missing in breezemite. Check it out: [SierraBreeze](https://github.com/ishovkun/SierraBreeze).
