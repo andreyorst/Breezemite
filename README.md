@@ -1,7 +1,10 @@
 # Breezemite
 Aurorae theme for KDE Plasma that mimics Yosemite window decoration, but with Breeze colors to match Breeze window theme.
 
-Place it in ~/.local/share/aurorae/themes
+### Installation:
+Copy theme folders to `~/.local/share/aurorae/themes`
+
+If you want to add a new colorscheme to this theme, feel free to send a PR, I'll prepare a package for KDE Store, and tag you as author here, and in the package name, so all color variants will be able via single store page, and same repository.
 
 ![Breezemite](https://cn.pling.com/img/6/6/d/d/5ee0d8f29801ecd2f6c418d05b4c77d6173a.png)
 [KDE Store](https://store.kde.org/p/1169286/)
@@ -26,6 +29,8 @@ Place it in ~/.local/share/aurorae/themes
 **Q.** Incorrect Application Menu position!  
 **A.** I personally recommend you to use this theme with application menu widget, since it is a mac style theme. But check [this](https://github.com/andreyorst/Breezemite/issues/6) issue for explanations.
 
----
+## 
 
-There is great new theme from [Igor Shovkun](https://github.com/ishovkun), which is based on breeze engine which is default in KDE5. It has all features which are missing in breezemite. Check it out: [SierraBreeze](https://github.com/ishovkun/SierraBreeze).
+Due the limitation of aurorae engine active development of this theme stopped. Since I can't do much about issuers listed in **F.A.Q.** sections I will only accept PRs with color variants, and try to help with issues that can be solved by tweaking `rc` file. I'm thinking about diving into real breeze to create a patch, that adds Mac Os style buttons to it, and maybe some bodifications to kwin, to add rounded corners to borderless windows, but that's nearly not a near future.
+
+If you re interested in theme visually similar to Breezemite take a look on the theme from [Igor Shovkun](https://github.com/ishovkun). It has all features which are missing in breezemite. [SierraBreeze](https://github.com/ishovkun/SierraBreeze).
