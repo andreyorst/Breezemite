@@ -6,7 +6,8 @@ maybe your issue is described there.
 -->
 
 <!--
-You can still open an issue with no problem, 
-I'll react as usual, but I can't guarantee a solution. 
-Thanks for understanding
+Please also check closed issues, maybe your problem
+is described here. If not, or you can't fix it, you can 
+still open an issue with no problem, I'll react as usual,
+but I can't guarantee a solution. Thanks for understanding
 -->
